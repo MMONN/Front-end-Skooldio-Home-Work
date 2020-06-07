@@ -1,0 +1,34 @@
+img.arrow {
+      width: 16px;
+      height: 14px;
+  }
+img.user{
+      width: 12px;
+      height: 12px;
+      margin-left: 20px;
+}
+img.bitmap {
+      width: 15px;
+      height: 21px;
+      margin-right: 20px;
+}
+button {
+      display: flex;
+      border: 0;
+      background-color: white;
+      align-items: center;
+      margin-left: 20px;
+      padding: 0;
+      height: 30px;
+}
+div#row-footer{
+      justify-content: space-between;
+      align-items: center;
+      margin-top: -0.5%;
+}
+hr.line-three{
+      width: 90%;
+      border: solid 0.5px #d8d8d8;
+      background-color:#d8d8d8 ;
+}
+    

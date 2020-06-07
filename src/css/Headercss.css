@@ -1,0 +1,21 @@
+.container{
+      display: flex;
+      justify-content: space-around;
+}
+.first-part{
+    display: flex;
+    flex-direction: row;
+}
+img.logo {
+      width: 80px;
+      height: 86px;
+      object-fit: contain;
+      margin: 22px 20px;
+}
+img.love{
+      width: 24px;
+      height: 21px;
+      object-fit: contain;
+      margin: 22px 20px;
+      float: right;
+}

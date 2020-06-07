@@ -1,0 +1,16 @@
+.App {
+  width: 442px;
+  height: 493px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px 0 #0000004d;
+  background-color: #ffffff00;
+  margin: 7% auto;
+}
+hr.line-one,hr.line-two{
+  width: 90%;
+  border: solid 1px #d8d8d8;
+  background-color:#d8d8d8 ;
+  margin-top: -1%
+}
+
+  
